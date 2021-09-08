@@ -22,7 +22,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'devise'
 gem 'hirb', '~> 0.7.3'
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 gem 'i18n-js'
 gem 'kaminari'
 gem 'administrate-field-paperclip', '~> 0.0.5'
